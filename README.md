@@ -4,7 +4,7 @@
 
 This web application allows users to perform basic arithmetic operations. 
 
-**Link to project:** TBD  
+**Link to project:** https://try-simple-calculator.netlify.app/ 
 
 ## How It's Made:
 
